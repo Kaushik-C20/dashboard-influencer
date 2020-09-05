@@ -1,0 +1,179 @@
+@media (max-width: 767px) {
+    .search-btn{
+        margin-left: 10%;
+    }
+
+    .heading {
+        font-size: 13px;
+        font-weight: 500;
+        margin-bottom: 8px;
+    }
+    .sub-heading {
+        font-size: 13px;
+        margin-top: 2px;
+        margin-bottom: 10px;
+    }
+    .interests{
+        font-size: 12px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .bio{
+        font-size: 10px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .container-fluid{
+        margin: 20px 0 90px 0;
+    }
+    .inf-card {
+        margin-bottom: 20px;
+        margin-right: 10px;
+    }
+    mat-card-header{
+        display: flex;
+        align-items: center;
+        padding: 0 0 20px 0;
+        border-bottom: 1px solid rgb(211, 211, 211);
+        text-align: left;
+    }
+    .inf-img{
+        width: 70px;
+        height: 70px;
+        margin-right: 10px;
+    }
+}
+
+@media (min-width: 768px) {
+    .heading {
+        font-size: 12px;
+        font-weight: 400;
+        margin-bottom: 8px;
+    }
+    .sub-heading {
+        font-size: 12px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .interests{
+        font-size: 11px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .bio{
+        font-size: 9px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .container-fluid{
+        margin: 20px 0 60px 0;
+    }
+    .inf-card {
+        max-width: 360px;
+        min-height: 250px;
+        margin-bottom: 20px;
+        margin-right: 10px;
+    }
+    mat-card-header{
+        display: flex;
+        align-items: center;
+        padding: 0 0 20px 0;
+        border-bottom: 1px solid rgb(211, 211, 211);
+        text-align: left;
+    }
+    .inf-img{
+        width: 70px;
+        height: 70px;
+        margin-right: 10px;
+    }
+}
+
+@media (min-width: 968px) {
+    .inf-img {
+        width: 80px;
+        height: 80px;
+        margin-right: 20px;
+    }
+    mat-card-header{
+        display: flex;
+        align-items: center;
+        padding: 0 0 20px 0;
+        border-bottom: 1px solid rgb(211, 211, 211);
+        text-align: left;
+    }
+    .inf-card {
+        max-width: 400px;
+        min-height: 260px;
+        margin-bottom: 20px;
+        margin-right: 10px;
+    }
+    .heading {
+        font-size: 15px;
+        font-weight: 400;
+        margin-bottom: 8px;
+    }
+    .sub-heading {
+        font-size: 15px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .interests{
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .bio{
+        font-size: 12px;
+        margin-top: 5px;
+        margin-bottom: 0;
+    }
+    .container-fluid{
+        margin: 20px 0 60px 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    .heading {
+        font-size: 15px;
+        font-weight: 500;
+        margin-bottom: 8px;
+    }
+    .sub-heading {
+        font-size: 15px;
+        margin-top: 0;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .interests{
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .bio{
+        font-size: 12px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .container-fluid{
+        margin: 20px 0 60px 0;
+    }
+    .inf-card {
+        max-width: 400px;
+        min-height: 280px;
+        margin-bottom: 20px;
+        margin-right: 10px;
+    }
+    mat-card-header{
+        display: flex;
+        align-items: center;
+        padding: 0 0 20px 0;
+        border-bottom: 1px solid rgb(211, 211, 211);
+        text-align: left;
+    }
+    .inf-img{
+        width: 90px;
+        height: 90px;
+        margin-right: 20px;
+    }
+    
+}
